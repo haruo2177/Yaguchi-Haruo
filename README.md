@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaguchi-Haruo
-- 👀 I’m interested in Statistics, Machine Learning, AI, Data Science.
-- 🌱 I’m currently learning how to use GCP.
+- 👀 I’m interested in a TEAMWORK.
+- 🌱 I’m currently learning Supabase.
 - 📫 How to reach me https://twitter.com/haruo2177.
 
 <!---
